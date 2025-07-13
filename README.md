@@ -1,8 +1,8 @@
 # 💬 Realtime Chat Application
 ```bash
 "COMPANY" : CODTECH IT SOLUTIONS
-"NAME" : AKANKSHA KUMARI
-"INTERN ID" : CT06DF64
+"NAME" : ZAIB FATMA
+"INTERN ID" : CT06DF639
 "DOMAIN" : MERN STACK WEB DEVELOPMENT
 "DURATION" : 6 WEEKS
 "MENTOR" : Neela Santhosh
@@ -65,7 +65,7 @@ This technology stack ensures that the app performs efficiently and is easily sc
 
 1. **Clone the Repository:**
 ```bash
-git clone "https://github.com/Akanksha190895/Real-time-Chat-Application"
+git clone "https://github.com/ZaibFatma/Real-time-Chat-Application/edit/main/README.md"
 cd Realtime-Chat-App
 ```
 
@@ -117,7 +117,7 @@ Realtime-Chat-App/
 
 ## 🙋‍♀️ Author
 
-**Akanksha Kumari**  
+**Zaib Fatma**  
 Intern at CodTech  
 
 
